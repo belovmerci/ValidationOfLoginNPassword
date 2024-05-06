@@ -1,0 +1,6 @@
+C:\Users\Arty\source\repos\ValidatorLibrary\bin\Debug\ValidatorLibrary.dll
+C:\Users\Arty\source\repos\ValidatorLibrary\bin\Debug\ValidatorLibrary.pdb
+C:\Users\Arty\source\repos\ValidatorLibrary\obj\Debug\ValidatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Arty\source\repos\ValidatorLibrary\obj\Debug\ValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arty\source\repos\ValidatorLibrary\obj\Debug\ValidatorLibrary.dll
+C:\Users\Arty\source\repos\ValidatorLibrary\obj\Debug\ValidatorLibrary.pdb

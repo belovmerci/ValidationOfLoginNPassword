@@ -1,0 +1,16 @@
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\ValidatorTests.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\ValidatorTests.pdb
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\ValidatorLibrary.dll
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\ValidatorLibrary.pdb
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Arty\source\repos\ValidatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Arty\source\repos\ValidatorTests\obj\Debug\ValidatorTests.csproj.AssemblyReference.cache
+C:\Users\Arty\source\repos\ValidatorTests\obj\Debug\ValidatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Arty\source\repos\ValidatorTests\obj\Debug\ValidatorTests.csproj.CopyComplete
+C:\Users\Arty\source\repos\ValidatorTests\obj\Debug\ValidatorTests.dll
+C:\Users\Arty\source\repos\ValidatorTests\obj\Debug\ValidatorTests.pdb
